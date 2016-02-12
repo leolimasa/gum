@@ -1,0 +1,23 @@
+{
+  "name": "gum",
+  "version": "1.0.0",
+  "description": "Functional Reactive Interfaces for Javascript",
+  "main": "gum.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leolimasa/gum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leolimasa/gum/issues"
+  },
+  "homepage": "https://github.com/leolimasa/gum#readme"
+}
